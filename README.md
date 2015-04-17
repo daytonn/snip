@@ -1,6 +1,6 @@
 # Snip
 
-TODO: Write a gem description
+A command line interface to generate/edit your Sublime Text 3 snippets.
 
 ## Installation
 
